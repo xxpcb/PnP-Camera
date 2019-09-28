@@ -23,5 +23,5 @@
 
 **效果展示**：
 
-![]()
+![](https://github.com/xxpcb/PnP-Camera/blob/master/pnp-camera.png)
 
